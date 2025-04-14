@@ -1,5 +1,5 @@
 # RLPolices
-An overview of popular On-Policy, Off-Policy, Model-Based, and Offline Reinforcement Learning techniques.
+An overview of popular On-Policy, Off-Policy, Model-Based, and Offline Reinforcement Learning techniques. (https://docs.ray.io/en/latest/rllib/rllib-algorithms.html)
 
 
 ## On-policy
